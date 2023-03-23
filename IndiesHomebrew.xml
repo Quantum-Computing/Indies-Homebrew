@@ -21,20 +21,18 @@
 			<description>You're a drunkard with a hipflask. The hipflask has two swigs in it. Drinking from it is a bonus action. Due to the strength of the booze in it you become dead drunk for an hour, when drunk from the hipflask any attack roll made against you has disadvantage if you can see the attacker.</description>
 		</sheet>
 	</element>
-		<element name="Pushing Polearm" type="Weapon" source="Indie's Handbook" id="ID_IHB_WEAPON_PUSHING_POLEARM">
+		<element name="Pushing Polearm" type="Magic Item" source="Indie's Homebrew" id="ID_IHB_WEAPON_PUSHING_POLEARM">
 		<supports>ID_INTERNAL_WEAPON_CATEGORY_SIMPLE_MELEE, ID_INTERNAL_DAMAGE_TYPE_BLUDGEONING, ID_INTERNAL_WEAPON_PROPERTY_VERSATILE</supports>
 		<description>
 			<p>This is a magical item that has 2 exclusive abilities one is to extend and push someone up to 15ft from the polearm or surface as a bonus action, and the other ability is to split in two for dual wielding combat.</p>
 		</description>
 		<setters>
-			<set name="category">Weapons</set>
-			<set name="cost" currency="sp">2</set>
-			<set name="weight" lb="4">4 lb.</set>
-			<set name="slot">onehand</set>
-			<set name="damage" type="bludgeoning">1d6</set>
-			<set name="versatile">1d8</set>
-			<set name="proficiency">ID_PROFICIENCY_WEAPON_PROFICIENCY_QUARTERSTAFF</set>
+			<set name="keywords">quaterstaff</set>
+			<set name="category">Magic Weapons</set>
+			<set name="type" addition="quaterstaff">Weapon</set>
+			<set name="rarity">Uncommon</set>
 			<set name="attunement">true</set>
+			<set name="name-format">Pushing Polearm</set>
 		</setters>
 	</element>
 </elements>
