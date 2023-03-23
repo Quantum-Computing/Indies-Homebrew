@@ -21,17 +21,20 @@
 			<description>You're a drunkard with a hipflask. The hipflask has two swigs in it. Drinking from it is a bonus action. Due to the strength of the booze in it you become dead drunk for an hour, when drunk from the hipflask any attack roll made against you has disadvantage if you can see the attacker.</description>
 		</sheet>
 	</element>
-		<element name="Pushing Polearm" type="Magic Item" source="Indie's Homebrew" id="ID_IHB_WEAPON_PUSHING_POLEARM">
+		<element name="Pushing Polearm" type="Magic Item" source="Indie's Homebrew" id="ID_IHB_MAGIC_ITEM_PUSHING_POLEARM">
 		<description>
-			<p>This is a magical item that has 2 exclusive abilities one is to extend and push someone up to 15ft from the polearm or surface as a bonus action, and the other ability is to split in two for dual wielding combat.</p>
+			<p>This is a magical item that has 2 exclusive abilities one is to extend and push someone up to 15ft from the polearm or surface as a bonus action (There are 3 charges), and the other ability is to split in two for dual wielding combat.</p>
 		</description>
 		<setters>
-			<set name="keywords">Quarterstaff</set>
+			<set name="keywords">quarterstaff</set>
 			<set name="category">Magic Weapons</set>
-			<set name="type" addition="Quarterstaff">Weapon</set>
-			<set name="rarity">Uncommon</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="type" addition="quarterstaff">Weapon</set>
 			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+			<set name="weapon">quarterstaff</set>
 			<set name="name-format">Pushing Polearm</set>
+			<set name="charges">3</set>
 		</setters>
 	</element>
 	<element name="Battle Master" type="Archetype" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FIGHTER_BATTLE_MASTER">
