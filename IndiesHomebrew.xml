@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>Feats</name>
-		<description>Indie's Homebrew stuff for D&D 5E.</description>
+		<description>Indie's Homebrew stuff for D And D 5E.</description>
 		<author url="https://github.com/Quantum-Computing/Indies-Homebrew">IndieGamer2227</author>
 		<update version="0.1.0">
 			<file name="IndiesHomebrew.xml" url="https://raw.github.com/Quantum-Computing/Indies-Homebrew/edit/main/IndiesHomebrew.xml" />
