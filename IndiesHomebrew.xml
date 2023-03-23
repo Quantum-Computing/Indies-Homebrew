@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<name>Feats</name>
-		<description>Indie's Homebrew stuff for D And D 5E.</description>
+		<name>IndiesHomebrew</name>
+		<description>Indies Homebrew stuff.</description>
 		<author url="https://github.com/Quantum-Computing/Indies-Homebrew">IndieGamer2227</author>
 		<update version="0.1.0">
 			<file name="IndiesHomebrew.xml" url="https://raw.github.com/Quantum-Computing/Indies-Homebrew/edit/main/IndiesHomebrew.xml" />
