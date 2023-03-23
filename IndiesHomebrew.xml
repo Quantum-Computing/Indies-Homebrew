@@ -26,9 +26,9 @@
 			<p>This is a magical item that has 2 exclusive abilities one is to extend and push someone up to 15ft from the polearm or surface as a bonus action, and the other ability is to split in two for dual wielding combat.</p>
 		</description>
 		<setters>
-			<set name="keywords">quaterstaff</set>
+			<set name="keywords">Quarterstaff</set>
 			<set name="category">Magic Weapons</set>
-			<set name="type" addition="quaterstaff">Weapon</set>
+			<set name="type" addition="Quarterstaff">Weapon</set>
 			<set name="rarity">Uncommon</set>
 			<set name="attunement">true</set>
 			<set name="name-format">Pushing Polearm</set>
