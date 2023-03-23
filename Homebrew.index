@@ -2,10 +2,10 @@
 <index>
   <info>
     <update version="1.0">
-      <file name="Homebrew.index" url="https://github.com/Quantum-Computing/Indies-Homebrew/blob/main/Homebrew.index" />
+      <file name="Homebrew.index" url="https://raw.github.com/Quantum-Computing/Indies-Homebrew/blob/main/Homebrew.index" />
     </update>
   </info>
   <files>
-    <file name="IndiesHomebrew.xml" url="https://github.com/Quantum-Computing/Indies-Homebrew/blob/main/IndiesHomebrew.xml" />
+    <file name="IndiesHomebrew.xml" url="https://raw.github.com/Quantum-Computing/Indies-Homebrew/blob/main/IndiesHomebrew.xml" />
   </files>
 </index>
