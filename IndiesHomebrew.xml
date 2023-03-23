@@ -22,7 +22,6 @@
 		</sheet>
 	</element>
 		<element name="Pushing Polearm" type="Magic Item" source="Indie's Homebrew" id="ID_IHB_WEAPON_PUSHING_POLEARM">
-		<supports>ID_INTERNAL_WEAPON_CATEGORY_SIMPLE_MELEE, ID_INTERNAL_DAMAGE_TYPE_BLUDGEONING, ID_INTERNAL_WEAPON_PROPERTY_VERSATILE</supports>
 		<description>
 			<p>This is a magical item that has 2 exclusive abilities one is to extend and push someone up to 15ft from the polearm or surface as a bonus action, and the other ability is to split in two for dual wielding combat.</p>
 		</description>
