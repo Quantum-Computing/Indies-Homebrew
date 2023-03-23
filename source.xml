@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<update version="0.0.2">
+		<update version="0.1.0">
 			<file name="sources.xml" url="https://raw.github.com/Quantum-Computing/Indies-Homebrew/main/source.xml" />
 		</update>
 	</info>
