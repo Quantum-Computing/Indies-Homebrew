@@ -21,4 +21,13 @@
 			<description>You're a drunkard with a hipflask. The hipflask has two swigs in it. Drinking from it is a bonus action. Due to the strength of the booze in it you become dead drunk for an hour, when drunk from the hipflask any attack roll made against you has disadvantage if you can see the attacker.</description>
 		</sheet>
 	</element>
+	<element name="Polearm Jab" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_MANEUVER_POLEARM_JAB">
+	<supports>Maneuver, Battle Master</supports>
+		<description>
+			<p>When you attack with the pushing polearm you can extend it into the attacked enemy pushing them upto 15ft away from you.</p>
+		</description>
+		<sheet>
+			<description>When you attack with the pushing polearm you can extend it into the attacked enemy pushing them upto 15ft away from you.</description>
+		</sheet>
+	</element>
 </elements>
