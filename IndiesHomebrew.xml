@@ -1,0 +1,13 @@
+	<element name="Hipflask Drunkard" type="Feat" source="Indie's Homebrew" id="ID_IHB_FEAT_HIPFLASK_DRUNKARD">
+		<description>
+			<p>Capt. Saria Skellige exclusive feat</p>
+			<ul>
+				<li>You gain a hipflask that has two swigs that refills at the start of every day.</li>
+				<li>Taking a swig from the flask will take a bonus action. Due to the strength of the booze in it you become dead drunk for an hour.</li>
+				<li>When you are drunk from drinking from this hipflask any attack roll made against you has disadvantage if you can see the attacker for as long as you're drunk.</li>
+			</ul>
+		</description>
+		<sheet>
+			<description>You're a drunkard with a hipflask. The hipflask has two swigs in it. Drinking from it is a bonus action. Due to the strength of the booze in it you become dead drunk for an hour, when drunk from the hipflask any attack roll made against you has disadvantage if you can see the attacker.</description>
+		</sheet>
+	</element>
