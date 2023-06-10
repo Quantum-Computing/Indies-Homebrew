@@ -21,7 +21,19 @@
 			<description>You're a drunkard with a hipflask. The hipflask has two swigs in it. Drinking from it is a bonus action. Due to the strength of the booze in it you become dead drunk for an hour, when drunk from the hipflask any attack roll made against you has disadvantage if you can see the attacker.</description>
 		</sheet>
 	</element>
-		<element name="Pushing Polearm" type="Magic Item" source="Indie's Homebrew" id="ID_IHB_MAGIC_ITEM_PUSHING_POLEARM">
+		<element name="Braclet Unit #037" type="Magic Item" source="Indie's Homebrew" id="ID_IHB_MAGIC_ITEM_BU#037">
+		<description>
+			<p>Has one charge (recharges on short rest), upon use you have refined energy pour into your weapon that you're holding. When casting you choose one damage type: cold, fire, thunder, Until the spell ends (upto 1 hour (concentration)) you deal an extra 1d6 damage of the chosen type to an creature you hit with the weapon. As a bonus action you can change the damage type to another listed type.</p>
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Common</set>
+			<set name="stackable">true</set>
+			<set name="charges">1</set>
+		</setters>
+	</element>
+			<element name="Pushing Polearm" type="Magic Item" source="Indie's Homebrew" id="ID_IHB_MAGIC_ITEM_PUSHING_POLEARM">
 		<description>
 			<p>This is a magical item that has 2 exclusive abilities one is to extend and push someone up to 15ft from the polearm or surface as a bonus action (There are 3 charges), and the other ability is to split in two for dual wielding combat.</p>
 		</description>
