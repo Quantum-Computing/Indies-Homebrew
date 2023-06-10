@@ -21,9 +21,9 @@
 			<description>You're a drunkard with a hipflask. The hipflask has two swigs in it. Drinking from it is a bonus action. Due to the strength of the booze in it you become dead drunk for an hour, when drunk from the hipflask any attack roll made against you has disadvantage if you can see the attacker.</description>
 		</sheet>
 	</element>
-		<element name="Braclet Unit #037" type="Magic Item" source="Indie's Homebrew" id="ID_IHB_MAGIC_ITEM_BU#037">
+		<element name="Braclet Unit LEO" type="Magic Item" source="Indie's Homebrew" id="ID_IHB_MAGIC_ITEM_BU#037">
 		<description>
-			<p>Has one charge (recharges on short rest), upon use you have refined energy pour into your weapon that you're holding. When casting you choose one damage type: cold, fire, thunder, Until the spell ends (upto 1 hour (concentration)) you deal an extra 1d6 damage of the chosen type to an creature you hit with the weapon. As a bonus action you can change the damage type to another listed type.</p>
+			<p>Braclet Unit #037 has one charge (recharges on short rest), upon use you have refined energy pour into your weapon that you're holding. When casting you choose one damage type: cold, fire, thunder, Until the spell ends (upto 1 hour (concentration)) you deal an extra 1d6 damage of the chosen type to an creature you hit with the weapon. As a bonus action you can change the damage type to another listed type.</p>
 		</description>
 		<setters>
 			<set name="category">Wondrous Items</set>
