@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
   <info>
-    <update version="1.1">
+    <update version="1.2">
       <file name="Homebrew.index" url="https://raw.github.com/Quantum-Computing/Indies-Homebrew/main/Homebrew.index" />
     </update>
   </info>
