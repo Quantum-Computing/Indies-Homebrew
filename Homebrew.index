@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
   <info>
-    <update version="1.0">
+    <name>Indie's Homebrew Stuff</name>
+    <description>Just A Collection Of Homebrew Stuff So We Can Have Fun Custome Stuff</description>
+    <author>Indie</author>
+    <update version="0.1.3">
       <file name="Homebrew.index" url="https://raw.github.com/Quantum-Computing/Indies-Homebrew/main/Homebrew.index" />
     </update>
   </info>
